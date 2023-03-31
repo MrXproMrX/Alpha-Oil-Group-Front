@@ -1481,6 +1481,14 @@ header{
     .header__list{
         grid-template-columns: auto 80px;
     }
+
+    .footer {
+        padding-top: 40px;
+    }
+
+    .footer__list {
+        padding-bottom: 40px;
+    }
 }
 
 @media (max-width:500px){
